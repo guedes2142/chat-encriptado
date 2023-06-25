@@ -5,10 +5,7 @@
 <br>
 </p>
 
-### [+] Description
-Repository readme generator is a tool that allows you to create simple and beautiful readme for your repository that you can copy/paste/download.
-
-### [+] Installation
+### [+] 
  - `Baixe o arquivo `
  - `abra o codigo em um editor de texto`
  - `ensira o seu ipv4 nos locais indicado`
