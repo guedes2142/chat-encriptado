@@ -6,8 +6,9 @@
 </p>
 
 ### [+] 
- - `Baixe o arquivo `
- - `abra o codigo em um editor de texto`
- - `ensira o seu ipv4 nos locais indicado`
- - `rode o app atraves do terminal python3 main.py`
+    Baixe o arquivo.
+    Abra o código em um editor de texto.
+    Insira o seu IPv4 nos locais indicados.
+    Rode o app através do terminal: python3 main.py.
 
+Aprendi neste projeto a usar algumas funções da biblioteca socket do Python.
